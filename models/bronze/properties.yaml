@@ -1,0 +1,13 @@
+models:
+    - name: bronze_listings
+      #"This model selects all records from the staging listings table and serves as the bronze layer for listings data."
+      config: 
+        materialized: table
+    - name: bronze_bookings
+      #"This model selects all records from the staging bookings table and serves as the bronze layer for bookings data."
+      config: 
+        materialized: table
+    - name: bronze_hosts
+      #"This model selects all records from the staging hosts table and serves as the bronze layer for hosts data."
+      config: 
+        materialized: table
