@@ -198,6 +198,6 @@ Building this pipeline from scratch provided deep hands-on experience in:
 💡 **Developed by Danny YIP** * 🎓 Student at Hong Kong University of Science and Technology (HKUST)
 
 * 💼 Aspiring Data Engineer / Business Intelligence Intern
-* 📧 [dannyckyah@gmail.com](mailto:dannyckyiaph@gmail.com)
-* 🌐 [Connect with me on LinkedIn](www.linkedin.com/in/danny-yip-1ba767264)
+* 📧 [dannyckyipah@gmail.com](mailto:dannyckyiaph@gmail.com)
+* 🌐 [Connect with me on LinkedIn](www.linkedin.com/in/danny-yip-1ba767264/)
 
