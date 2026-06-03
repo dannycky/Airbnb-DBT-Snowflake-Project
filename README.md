@@ -16,7 +16,7 @@ The project layout decouples storage, compute, and transformation layers to maxi
  ┌──────────────┐      ┌─────────────────────────────────────────────────────────────────┐
  │   DATA LAKE  │      │                     SNOWFLAKE DATA CLOUD                        │
  │              │      │                                                                 │
- │   AWS S3     │ ───> │  BRONZE LAYER   ───────>  SILVER LAYER   ───────>  GOLD LAYER     │
+ │   AWS S3     │ ───> │  BRONZE LAYER   ───────>  SILVER LAYER   ───────>  GOLD LAYER   │
  │  (Raw CSVs)  │      │ (External Stages)       (Staging Models)       (Marts / OLAP)   │
  └──────────────┘      │ (File Formats)          (SCD Type 2)           (Fact/Dim Tables)│
                        └─────────────────────────────────────────────────────────────────┘
